@@ -1,6 +1,7 @@
 # Visual Studio temporary settings
 # *.suo
-# *.user
+# *.user 
+# Test Commit
 
 # Shared output folder
 /[Bb]uild/
